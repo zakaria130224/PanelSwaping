@@ -46,7 +46,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
+            this.panel1.BackColor = System.Drawing.Color.DarkKhaki;
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(51, 136);
             this.panel1.Name = "panel1";
@@ -65,7 +65,7 @@
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.Maroon;
+            this.panel2.BackColor = System.Drawing.Color.Salmon;
             this.panel2.Controls.Add(this.label2);
             this.panel2.Location = new System.Drawing.Point(328, 136);
             this.panel2.Name = "panel2";
@@ -85,7 +85,7 @@
             // 
             // panel3
             // 
-            this.panel3.BackColor = System.Drawing.SystemColors.Highlight;
+            this.panel3.BackColor = System.Drawing.Color.LightGreen;
             this.panel3.Controls.Add(this.label3);
             this.panel3.Location = new System.Drawing.Point(51, 310);
             this.panel3.Name = "panel3";
@@ -105,7 +105,7 @@
             // 
             // panel4
             // 
-            this.panel4.BackColor = System.Drawing.Color.Chocolate;
+            this.panel4.BackColor = System.Drawing.Color.RosyBrown;
             this.panel4.Controls.Add(this.label4);
             this.panel4.Location = new System.Drawing.Point(328, 310);
             this.panel4.Name = "panel4";
@@ -136,6 +136,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Teal;
             this.ClientSize = new System.Drawing.Size(589, 462);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel4);
