@@ -1,0 +1,9 @@
+c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\bin\Debug\PanelSwap.exe.config
+c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\bin\Debug\PanelSwap.exe
+c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\bin\Debug\PanelSwap.pdb
+c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\obj\Debug\PanelSwap.csprojResolveAssemblyReference.cache
+c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\obj\Debug\PanelSwap.Form1.resources
+c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\obj\Debug\PanelSwap.Properties.Resources.resources
+c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\obj\Debug\PanelSwap.csproj.GenerateResource.Cache
+c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\obj\Debug\PanelSwap.exe
+c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\obj\Debug\PanelSwap.pdb

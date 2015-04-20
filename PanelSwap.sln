@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanelSwap", "PanelSwap\PanelSwap.csproj", "{97CC187F-1C0A-49AA-A431-5E87FDD2D77D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97CC187F-1C0A-49AA-A431-5E87FDD2D77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CC187F-1C0A-49AA-A431-5E87FDD2D77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CC187F-1C0A-49AA-A431-5E87FDD2D77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CC187F-1C0A-49AA-A431-5E87FDD2D77D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
