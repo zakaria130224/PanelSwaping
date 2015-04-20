@@ -7,3 +7,12 @@ c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\obj\D
 c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\obj\Debug\PanelSwap.csproj.GenerateResource.Cache
 c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\obj\Debug\PanelSwap.exe
 c:\users\zakaria\documents\visual studio 2013\Projects\PanelSwap\PanelSwap\obj\Debug\PanelSwap.pdb
+I:\Gits\PanelSwaping\PanelSwap\bin\Debug\PanelSwap.exe.config
+I:\Gits\PanelSwaping\PanelSwap\obj\Debug\PanelSwap.exe
+I:\Gits\PanelSwaping\PanelSwap\obj\Debug\PanelSwap.pdb
+I:\Gits\PanelSwaping\PanelSwap\bin\Debug\PanelSwap.exe
+I:\Gits\PanelSwaping\PanelSwap\bin\Debug\PanelSwap.pdb
+I:\Gits\PanelSwaping\PanelSwap\obj\Debug\PanelSwap.csprojResolveAssemblyReference.cache
+I:\Gits\PanelSwaping\PanelSwap\obj\Debug\PanelSwap.Form1.resources
+I:\Gits\PanelSwaping\PanelSwap\obj\Debug\PanelSwap.Properties.Resources.resources
+I:\Gits\PanelSwaping\PanelSwap\obj\Debug\PanelSwap.csproj.GenerateResource.Cache
